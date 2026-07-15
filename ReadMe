@@ -1,2 +1,2 @@
-Data analysis done line-by-line with Python in Colab with assistence from Gemini. Goal is to to be close enough to the code to trust how the end numbers are calculated and gain more line of sight into how AI can assist reliably.
-The analysis uses the Cyclistic case study from the Google Data Analytics intro course. TL;DR Claude can already auto-generate a great-looking code notebook, deck and executive summary from scratch. It seems unwise to rely on this without verification that the analysis behind the numbers is correct.
+Data analysis done line-by-line with Python in Colab with assistence from Gemini and Claude. Goal is to to be close enough to the code to trust how the end numbers are calculated and gain more line of sight into how AI can assist reliably.
+The analysis uses the Cyclistic case study from the Google Data Analytics intro course.
