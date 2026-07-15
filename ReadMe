@@ -1,2 +1,3 @@
-Data analysis done line-by-line with Python in Colab with assistence from Gemini and Claude. Goal is to to be close enough to the code to trust how the end numbers are calculated and gain more line of sight into how AI can assist reliably.
+Data analysis done line-by-line with Python in Colab with assistence from Gemini and Claude. 
+Goal is to to be close enough to the code to trust how the end numbers are calculated and gain more line of sight into how AI can assist while still generating verifiable, accurate numbers.
 The analysis uses the Cyclistic case study from the Google Data Analytics intro course.
